@@ -10,8 +10,14 @@ body{
 h3{
     font-size: 40px;
 }
-.HomePage{
+.navbarInfo{
+    font-size: 20px;
+    margin:20px;
    
+}
+a{
+    color: #A3E4D7;
+    font-size: 40px;
 }
 .homeInfo{
     color: 'DARKBLUE';
@@ -42,8 +48,8 @@ a:hover {
     color: #DC143C;
 } */
 .link{
-    font-size: 30px;
-    color: #DC143C;
+    font-size: 50px;
+    color: #A3E4D7;
 }
 .aboutInfo{
     /* font-family: 'Inconsolata', monospace; */
